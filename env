@@ -1,0 +1,7 @@
+# Following are dev env
+AZURE_GPT_URL="https://eastusalakhai.openai.azure.com/"
+AZURE_GPT_VERSION="2024-03-01-preview"
+AZURE_GPT_MODEL="gpt4omini"
+AZURE_GPT_KEY="1eb9bca863a94790859abc5813841b5a"
+SPEECH_KEY="30WF4d8j3NffR135INShyh1nAfSD1Ca65Zpzuqb0dvCJNND88NlaJQQJ99BEACYeBjFXJ3w3AAAYACOGCsDM"
+SPEECH_ENDPOINT="https://eastus.api.cognitive.microsoft.com/"
